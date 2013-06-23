@@ -1,0 +1,8 @@
+a {text-decoration: none;
+	color:black;
+	}
+a:hover{color:red;}
+body {font-family:arial;}
+h2 {text-transform:uppercase;
+	letter-spacing:-0.1em;
+}
